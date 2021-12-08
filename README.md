@@ -6,7 +6,7 @@
 
 (These are not publicly available because they are not completed yet)
 
-### Here are my passed projects
+### Here are my past projects
 #### From EPFL:
 - [CS-107(BA1) - Miniprojects](https://github.com/MaximeZmt/CS107-Miniprojet1-2)
 - [CS-108(BA2) - Rigel](https://github.com/MaximeZmt/CS-108-Rigel)
