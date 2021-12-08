@@ -2,9 +2,9 @@
 
 ### Here are my current projects
 - Creating a programming language (with Computer Language Processing class)
-- Many smaller projects
+- Various small projects
 
-(These are not publicly available because I am currently working on them for school)
+(These are not publicly available because they are not completed yet)
 
 ### Here are my passed projects
 #### From EPFL:
