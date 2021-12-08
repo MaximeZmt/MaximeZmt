@@ -1,6 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-#### It's empty now, it will be updated one day 😄!
+### Here are my current projects
+- Creating a programming language (with Computer Language Processing class)
+- Many smaller projects
+(These are not publicly available because I am currently working on them for school)
+
+### Here are my passed projects
+#### From EPFL:
+- [CS-107(BA1) - Miniprojects](https://github.com/MaximeZmt/CS107-Miniprojet1-2)
+- [CS-108(BA2) - Rigel](https://github.com/MaximeZmt/CS-108-Rigel)
+- [CS-212(BA4) - ImgStore](https://github.com/MaximeZmt/CS212-ImgStore)
+#### My Matura Project
+- Empty
+#### Others
+- Empty
+
+### To contact me: maxime.zammit at epfl.ch
 <!--
 **MaximeZmt/MaximeZmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
