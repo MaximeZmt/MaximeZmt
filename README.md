@@ -4,7 +4,7 @@
 - Creating a programming language (with Computer Language Processing class)
 - Various small projects
 
-(These are not publicly available because they are not completed yet)
+(These are not publicly available as they are not completed yet)
 
 ### Here are my past projects
 #### From EPFL:
