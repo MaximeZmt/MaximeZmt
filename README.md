@@ -3,6 +3,7 @@
 ### Here are my current projects
 - Creating a programming language (with Computer Language Processing class)
 - Many smaller projects
+
 (These are not publicly available because I am currently working on them for school)
 
 ### Here are my passed projects
@@ -11,7 +12,7 @@
 - [CS-108(BA2) - Rigel](https://github.com/MaximeZmt/CS-108-Rigel)
 - [CS-212(BA4) - ImgStore](https://github.com/MaximeZmt/CS212-ImgStore)
 #### My Matura Project
-- Empty
+- [My Matura Project - Location Hunter](https://github.com/MaximeZmt/LocationHunter)
 #### Others
 - Empty
 
