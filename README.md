@@ -16,6 +16,30 @@
 #### Others
 - [Jumpbot - A smartphone game created with godot engine](https://github.com/MaximeZmt/jumpbot)
 
+### Here are some technologies and tools that I am using 🔧
+##### OS
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=52b2bf)
+![](https://img.shields.io/badge/OS-WSL-informational?style=flat-square&logo=linux&logoColor=white&color=52b2bf)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=52b2bf)
+
+##### IDE
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=52b2bf)
+![](https://img.shields.io/badge/Editor-CLion-informational?style=flat-square&logo=clion&logoColor=white&color=52b2bf)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=52b2bf)
+
+##### Language
+![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=52b2bf)
+![](https://img.shields.io/badge/Code-Scala-informational?style=flat-square&logo=scala&logoColor=white&color=52b2bf)
+![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=52b2bf)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=52b2bf)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=52b2bf)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=52b2bf)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=52b2bf)
+<!--
+Done with: https://shields.io/
+Find Logo here: https://simpleicons.org/?q=scalion
+-->
+
 ### To contact me: maxime.zammit at epfl.ch
 <!--
 **MaximeZmt/MaximeZmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
