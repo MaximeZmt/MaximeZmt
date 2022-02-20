@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 ### Here are my current projects
-- Creating a programming language (with Computer Language Processing class)
-- Various small projects
+- Various small projects (These are not publicly available as they are not completed yet)
 
-(These are not publicly available as they are not completed yet)
 
 ### Here are my past projects
 #### From EPFL:
