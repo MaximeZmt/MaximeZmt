@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ### Here are my current projects
+- [CS-306(BA6) - SoftwareDevelopmentProject: Vibester](https://github.com/MaximeZmt/SDP_2022-Vibester/)
 - Various small projects (These are not publicly available as they are not completed yet)
 
 
@@ -21,9 +22,11 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=52b2bf)
 
 ##### IDE
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=52b2bf)
+![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat-square&logo=androidstudio&logoColor=white&color=52b2bf)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=52b2bf)
 ![](https://img.shields.io/badge/Editor-CLion-informational?style=flat-square&logo=clion&logoColor=white&color=52b2bf)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=52b2bf)
+
 
 ##### Language
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=52b2bf)
