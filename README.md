@@ -2,6 +2,7 @@
 
 ### Here are my current projects
 - [CS-306(BA6) - SoftwareDevelopmentProject: Vibester](https://github.com/MaximeZmt/SDP_2022-Vibester/)
+- [DEDIS Laboratory - Contributing to POPstellar](https://github.com/dedis/popstellar)
 - Various small projects (These are not publicly available as they are not completed yet)
 
 
@@ -17,15 +18,16 @@
 
 ### Here are some technologies and tools that I am using 🔧
 ##### OS
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=52b2bf)
-![](https://img.shields.io/badge/OS-WSL-informational?style=flat-square&logo=linux&logoColor=white&color=52b2bf)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=52b2bf)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=26547c)
+![](https://img.shields.io/badge/OS-WSL-informational?style=flat-square&logo=linux&logoColor=white&color=26547c)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=26547c)
 
 ##### IDE
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=52b2bf)
-![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat-square&logo=androidstudio&logoColor=white&color=52b2bf)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=52b2bf)
-![](https://img.shields.io/badge/Editor-CLion-informational?style=flat-square&logo=clion&logoColor=white&color=52b2bf)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=439775)
+![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat-square&logo=androidstudio&logoColor=white&color=439775)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=439775)
+![](https://img.shields.io/badge/Editor-CLion-informational?style=flat-square&logo=clion&logoColor=white&color=439775)
+![](https://img.shields.io/badge/Editor-GoLand-informational?style=flat-square&logo=goland&logoColor=white&color=439775)
 
 
 ##### Language
@@ -36,6 +38,7 @@
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=52b2bf)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=52b2bf)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=52b2bf)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&logoColor=white&color=52b2bf)
 <!--
 Done with: https://shields.io/
 Find Logo here: https://simpleicons.org/?q=scalion
