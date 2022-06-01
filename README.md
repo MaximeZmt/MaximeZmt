@@ -32,6 +32,7 @@
 
 ##### Language
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=52b2bf)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat-square&logo=kotlin&logoColor=white&color=52b2bf)
 ![](https://img.shields.io/badge/Code-Scala-informational?style=flat-square&logo=scala&logoColor=white&color=52b2bf)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat-square&logo=c&logoColor=white&color=52b2bf)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=52b2bf)
