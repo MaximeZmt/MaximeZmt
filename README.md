@@ -3,8 +3,8 @@
 ### Here are my current projects
 - [CS-306(BA6) - SoftwareDevelopmentProject: Vibester](https://github.com/MaximeZmt/SDP_2022-Vibester/)
 - [DEDIS Laboratory - Contributing to POPstellar](https://github.com/dedis/popstellar)
-- [Coolor - SHS Jeu Vidéo et gamification (Prototype)](https://maximezmt.itch.io/coolor)
 - [Mind-Controlled Robot - Making Intelligent Things Project](https://github.com/EPFL-EEG-Team)
+- [Coolor - SHS Jeu Vidéo et gamification (Prototype)](https://maximezmt.itch.io/coolor)
 <a href=https://maximezmt.itch.io/coolor>
   <img src=https://user-images.githubusercontent.com/61186830/171508188-3a17eb2f-783a-4429-8334-4926b7dac4dd.png></img>
 </a>
