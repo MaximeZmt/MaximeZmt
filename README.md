@@ -1,24 +1,26 @@
 ## Hi there 👋
 
 ### Here are my current projects
-- [CS-306(BA6) - SoftwareDevelopmentProject: Vibester](https://github.com/MaximeZmt/SDP_2022-Vibester/)
-- [DEDIS Laboratory - Contributing to POPstellar](https://github.com/dedis/popstellar)
-- [Mind-Controlled Robot - Making Intelligent Things Project](https://github.com/EPFL-EEG-Team)
-- [Coolor - SHS Jeu Vidéo et gamification (Prototype)](https://maximezmt.itch.io/coolor)
-<a href=https://maximezmt.itch.io/coolor>
-  <img src=https://user-images.githubusercontent.com/61186830/171508188-3a17eb2f-783a-4429-8334-4926b7dac4dd.png></img>
-</a>
-
 - Various small projects (These are not publicly available as they are not completed yet)
 
 
 ### Here are my past projects
 #### From EPFL:
-- [CS-107(BA1) - Miniprojects](https://github.com/MaximeZmt/CS107-Miniprojet1-2)
-- [CS-108(BA2) - Rigel](https://github.com/MaximeZmt/CS-108-Rigel)
+- [CS-398(BA6) - DEDIS Laboratory Semester Project: Contributing to POPstellar](https://github.com/dedis/popstellar)
+- [CS-306(BA6) - SoftwareDevelopmentProject: Vibester](https://github.com/MaximeZmt/SDP_2022-Vibester/)
+- [CS-358(BA6) - Making Intelligent Things: Mind-Controlled Robot](https://github.com/EPFL-EEG-Team)
+- [HUM-380(BA6) - Coolor, video game prototype on color theory](https://maximezmt.itch.io/coolor)
+<a href=https://maximezmt.itch.io/coolor>
+  <img src=https://user-images.githubusercontent.com/61186830/171508188-3a17eb2f-783a-4429-8334-4926b7dac4dd.png></img>
+</a>
+
 - [CS-212(BA4) - ImgStore](https://github.com/MaximeZmt/CS212-ImgStore)
+- [CS-108(BA2) - Rigel](https://github.com/MaximeZmt/CS-108-Rigel)
+- [CS-107(BA1) - Miniprojects](https://github.com/MaximeZmt/CS107-Miniprojet1-2)
+
 #### My Matura Project
 - [My Matura Project - Location Hunter](https://github.com/MaximeZmt/LocationHunter)
+
 #### Others
 - [Jumpbot - A smartphone game created with godot engine](https://github.com/MaximeZmt/jumpbot)
 
