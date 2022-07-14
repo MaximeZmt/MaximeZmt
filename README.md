@@ -9,11 +9,7 @@
 - [CS-398(BA6) - DEDIS Laboratory Semester Project: Contributing to POPstellar](https://github.com/dedis/popstellar)
 - [CS-306(BA6) - SoftwareDevelopmentProject: Vibester](https://github.com/MaximeZmt/SDP_2022-Vibester/)
 - [CS-358(BA6) - Making Intelligent Things: Mind-Controlled Robot](https://github.com/EPFL-EEG-Team)
-- [HUM-380(BA6) - Coolor, video game prototype on color theory](https://maximezmt.itch.io/coolor)
-<a href=https://maximezmt.itch.io/coolor>
-  <img src=https://user-images.githubusercontent.com/61186830/171508188-3a17eb2f-783a-4429-8334-4926b7dac4dd.png></img>
-</a>
-
+- [HUM-380(BA6) - Coolor, video game prototype on color theory](https://github.com/RabbitStudiosCH)
 - [CS-212(BA4) - ImgStore](https://github.com/MaximeZmt/CS212-ImgStore)
 - [CS-108(BA2) - Rigel](https://github.com/MaximeZmt/CS-108-Rigel)
 - [CS-107(BA1) - Miniprojects](https://github.com/MaximeZmt/CS107-Miniprojet1-2)
