@@ -1,23 +1,24 @@
-![Header](./assets/github-header-image.png)
-
+![Header](./assets/banner.png)
 > [!NOTE]  
 > This page is not up to date - currently working on it
 
-## Hi there 👋
+## Hi there, my name is Maxime 👋
 
 #### Here you will find a relevant selection of project I've been worked on!
 
 Curious about me ? Send me an e-mail at maxime.zammit at epfl.ch 
 <!-- visit my website [here](#)-->
-Want to connect ? <a href="https://www.linkedin.com/in/maxime-zmt?utm_source=website" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+Want to connect ? <a href="https://www.linkedin.com/in/maxime-zmt?utm_source=website" target="blank"><img align="center" src="assets/linkedin_logo.svg" alt="" height="30" width="40" /></a>
+
 
 ### Here are my current relevant projects
-#### From EPFL:
-- CS-498(MA2) - DEDIS/C4DT Semester Project: Contributing to D-Voting
+#### From ETH/EPFL:
+None currently to be displayed in this section.
 
 
 ### Here are my past relevant projects
-#### From EPFL:
+#### From ETH/EPFL:
+- CS-498(MA2) - DEDIS/C4DT Semester Project: Contributing to D-Voting - ([Github](https://github.com/MaximeZmt/d-voting) | [Report](MaximeZammit_MasterResearchProject_D-Voting.pdf) | [Slides](MaximeZammitFinalSlides.pdf)) <!-- - HUM-410/414 - Droit et Technique I et II - ([Report]()) --> 
 - CS-398(BA6) - DEDIS Laboratory Semester Project: Contributing to POPstellar - ([Github](https://github.com/dedis/popstellar) | [Report](https://www.epfl.ch/labs/dedis/wp-content/uploads/2022/07/report-2022-1-PoP.pdf)) <!-- Archive Link if broken: https://web.archive.org/web/20240109220256/https://www.epfl.ch/labs/dedis/wp-content/uploads/2022/07/report-2022-1-PoP.pdf-->
 - CS-306(BA6) - SoftwareDevelopmentProject: Vibester - ([Github](https://github.com/MaximeZmt/SDP_2022-Vibester/))
 - CS-358(BA6) - Making Intelligent Things: Mind-Controlled Robot - ([Github](https://github.com/EPFL-EEG-Team) | [Report](https://github.com/EPFL-EEG-Team/.github/raw/main/EEG_Final_Report.pdf))
@@ -32,5 +33,3 @@ Want to connect ? <a href="https://www.linkedin.com/in/maxime-zmt?utm_source=web
 #### Others
 - Jumpbot - A smartphone game created with godot engine ([Github](https://github.com/MaximeZmt/jumpbot))
 
-
-### To contact me: maxime.zammit at alumni.epfl.ch
