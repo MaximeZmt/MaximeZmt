@@ -18,7 +18,7 @@ None currently to be displayed in this section.
 
 ### Here are my past relevant projects
 #### From ETH/EPFL:
-- CS-498(MA2) - DEDIS/C4DT Semester Project: Contributing to D-Voting - ([Github](https://github.com/MaximeZmt/d-voting) | [Report](MaximeZammit_MasterResearchProject_D-Voting.pdf) | [Slides](MaximeZammitFinalSlides.pdf)) <!-- - HUM-410/414 - Droit et Technique I et II - ([Report]()) --> 
+- CS-498(MA2) - DEDIS/C4DT Semester Project: Contributing to D-Voting - ([Github](https://github.com/MaximeZmt/d-voting) | [Report](docs/MaximeZammit_MasterResearchProject_D-Voting.pdf) | [Slides](docs/MaximeZammitFinalSlides.pdf)) <!-- - HUM-410/414 - Droit et Technique I et II - ([Report]()) --> 
 - CS-398(BA6) - DEDIS Laboratory Semester Project: Contributing to POPstellar - ([Github](https://github.com/dedis/popstellar) | [Report](https://www.epfl.ch/labs/dedis/wp-content/uploads/2022/07/report-2022-1-PoP.pdf)) <!-- Archive Link if broken: https://web.archive.org/web/20240109220256/https://www.epfl.ch/labs/dedis/wp-content/uploads/2022/07/report-2022-1-PoP.pdf-->
 - CS-306(BA6) - SoftwareDevelopmentProject: Vibester - ([Github](https://github.com/MaximeZmt/SDP_2022-Vibester/))
 - CS-358(BA6) - Making Intelligent Things: Mind-Controlled Robot - ([Github](https://github.com/EPFL-EEG-Team) | [Report](https://github.com/EPFL-EEG-Team/.github/raw/main/EEG_Final_Report.pdf))
