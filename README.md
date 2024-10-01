@@ -1,6 +1,4 @@
 ![Header](./assets/banner.png)
-> [!NOTE]  
-> This page is not up to date - currently working on it
 
 ## Hi there, my name is Maxime 👋
 
@@ -13,7 +11,7 @@ Want to connect ? <a href="https://www.linkedin.com/in/maxime-zmt?utm_source=web
 
 ### Here are my current relevant projects
 #### From ETH/EPFL:
-None currently to be displayed in this section.
+- 263-4640-00L(MA3-ETH) - Network Security: implementing an ACME Client
 
 
 ### Here are my past relevant projects
