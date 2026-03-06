@@ -19,6 +19,7 @@ Want to connect ? <a href="https://www.linkedin.com/in/maxime-zmt?utm_source=web
 #### At ETH/EPFL:
 - 263-4640-00L(MA3-ETH) - Network Security: implementing an ACME Client - (*TODO*)
 - CS-498(MA2) - DEDIS/C4DT Semester Project: Contributing to D-Voting - ([Github](https://github.com/MaximeZmt/d-voting) | [Report](docs/MaximeZammit_MasterResearchProject_D-Voting.pdf) | [Slides](docs/MaximeZammitFinalSlides.pdf))
+- CS-444(MA2) - Virtual Reality: Creating a VR Game prototype (Meta Quest) - (*TODO*)
 - HUM-410/414(MA1/MA2) - Droit et Technique I et II - ([Github](https://github.com/MaximeZmt/Droit-et-Technique-I-et-II) | [Report](https://github.com/MaximeZmt/Droit-et-Technique-I-et-II/blob/main/BrevetsEtBiotechnologiesVegetales_final.pdf) | [Slides](https://github.com/MaximeZmt/Droit-et-Technique-I-et-II/blob/main/BrevetsEtBiotechnologiesVegetales_slides.pdf))
 - CS-398(BA6) - DEDIS Laboratory Semester Project: Contributing to POPstellar - ([Github](https://github.com/dedis/popstellar) | [Report](https://www.epfl.ch/labs/dedis/wp-content/uploads/2022/07/report-2022-1-PoP.pdf)) <!-- Archive Link if broken: https://web.archive.org/web/20240109220256/https://www.epfl.ch/labs/dedis/wp-content/uploads/2022/07/report-2022-1-PoP.pdf-->
 - CS-306(BA6) - SoftwareDevelopmentProject: Vibester - ([Github](https://github.com/MaximeZmt/SDP_2022-Vibester/))
