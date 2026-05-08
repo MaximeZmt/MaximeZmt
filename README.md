@@ -4,7 +4,7 @@
 
 #### Here you will find key projects I've worked on!
 
-Curious about me ? Send me an e-mail at maxime.zammit at epfl.ch 
+Curious about me ? Send me an e-mail at maxime.zammit at alumni.epfl.ch 
 <!-- visit my website [here](#)-->
 Want to connect ? <a href="https://www.linkedin.com/in/maxime-zmt?utm_source=website" target="blank"><img align="center" src="assets/linkedin_logo.svg" alt="" height="30" width="40" /></a>
 
