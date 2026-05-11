@@ -8,14 +8,15 @@ Curious about me ? Send me an e-mail at maxime.zammit at alumni.epfl.ch
 <!-- visit my website [here](#)-->
 Want to connect ? <a href="https://www.linkedin.com/in/maxime-zmt?utm_source=website" target="blank"><img align="center" src="assets/linkedin_logo.svg" alt="" height="30" width="40" /></a>
 
-
+<!-- 
 ### Current relevant project(s)
-#### At NTU:
-- 🎓 Working on my Master’s thesis. Updates coming soon!
-
+**
+-->
 
 
 ### Past relevant projects
+#### At NTU:
+- Master’s thesis - (*TODO*)
 #### At ETH/EPFL:
 - 263-4640-00L(MA3-ETH) - Network Security: implementing an ACME Client - (*TODO*)
 - CS-498(MA2) - DEDIS/C4DT Semester Project: Contributing to D-Voting - ([Github](https://github.com/MaximeZmt/d-voting) | [Report](docs/MaximeZammit_MasterResearchProject_D-Voting.pdf) | [Slides](docs/MaximeZammitFinalSlides.pdf))
